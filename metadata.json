@@ -1,0 +1,6 @@
+{
+  "name": "Limeres Cross-Border Legal",
+  "description": "Argentine inheritance, probate, and cross-border estate administration for international heirs, expatriates, and beneficiaries without traveling to Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
